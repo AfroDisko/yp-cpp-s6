@@ -2,6 +2,4 @@
 
 namespace dispatcher {
 
-// здесь ваш код
-
-} // namespace dispatcher
+}  // namespace dispatcher
