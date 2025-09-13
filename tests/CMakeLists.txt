@@ -2,6 +2,7 @@ set(target dispatcher_test)
 
 add_executable(${target}
     task_dispatcher.cpp
+    thread_pool.cpp
 )
 
 target_link_libraries(${target}
